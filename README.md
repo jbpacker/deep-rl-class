@@ -1,4 +1,32 @@
-# The Hugging Face Deep Reinforcement Learning Class 🤗
+# [The Hugging Face Deep Reinforcement Learning Course 🤗 (v2.0)](https://huggingface.co/deep-rl-course/unit0/introduction)
+
+This repository contains the Deep Reinforcement Learning Course mdx files and notebooks. The website is here: https://huggingface.co/deep-rl-course/unit0/introduction?fw=pt
+
+- The syllabus 📚: https://simoninithomas.github.io/deep-rl-course
+
+- The course 📚: https://huggingface.co/deep-rl-course/unit0/introduction?fw=pt
+
+- **Sign up here** ➡️➡️➡️ http://eepurl.com/ic5ZUD
+
+<br>
+<br>
+<br>
+<br>
+
+# The documentation below is for v1.0 (depreciated)
+
+We're launching a **new version (v2.0) of the course starting December the 5th,**
+
+The syllabus 📚: https://simoninithomas.github.io/deep-rl-course
+
+## **Sign up here** ➡️➡️➡️ http://eepurl.com/ic5ZUD
+
+<br>
+<br>
+<br>
+<br>
+
+# The documentation below is for v1.0 (depreciated)
 
 In this free course, you will:
 
@@ -9,7 +37,6 @@ In this free course, you will:
 - 🏆 **Participate in challenges** where you will evaluate your agents against other teams.
 - 🖌️🎨 **Learn to share your own environments made with Unity and Godot**.
 
-➡️➡️➡️ Don't forget to sign up here: http://eepurl.com/h1pElX
 
 The best way to keep in touch is to **join our discord server to exchange with the community and with us** 👉🏻 https://discord.gg/aYka4Yhff9
 
@@ -32,7 +59,7 @@ This course is **self-paced** you can start when you want 🥳.
 | [Published 🥳](https://github.com/huggingface/deep-rl-class/tree/main/unit6#towards-better-explorations-methods-with-curiosity) | [Towards better explorations methods with Curiosity](https://github.com/huggingface/deep-rl-class/tree/main/unit6#towards-better-explorations-methods-with-curiosity)|                                                                                                         |
 | [Published 🥳](https://github.com/huggingface/deep-rl-class/tree/main/unit7#unit-7-advantage-actor-critic-a2c-using-robotics-simulations-with-pybullet-) | [Advantage Actor Critic (A2C)](https://github.com/huggingface/deep-rl-class/tree/main/unit7#unit-7-advantage-actor-critic-a2c-using-robotics-simulations-with-pybullet-) | [Train a bipedal walker and a spider to learn to walk using A2C](https://github.com/huggingface/deep-rl-class/tree/main/unit7#unit-7-advantage-actor-critic-a2c-using-robotics-simulations-with-pybullet-)                                                                                                        |
 | [Published 🥳](https://github.com/huggingface/deep-rl-class/tree/main/unit8#unit-8-proximal-policy-optimization-ppo-with-pytorch) | [Proximal Policy Optimization (PPO)](https://github.com/huggingface/deep-rl-class/tree/main/unit8#unit-8-proximal-policy-optimization-ppo-with-pytorch)                       | [Code a PPO agent from scratch using PyTorch and bulletproof it with Classical Control Environments](https://colab.research.google.com/github/huggingface/deep-rl-class/blob/main/unit8/unit8.ipynb)                                                                                                           |
-| TBA | Decision Transformers and offline Reinforcement Learning | 🏗️                                                                                                        |
+| [Published 🥳](https://github.com/huggingface/deep-rl-class/tree/main/unit9#unit-9-decision-transformers-and-offline-reinforcement-learning-) | [Decision Transformers and offline Reinforcement Learning](https://github.com/huggingface/deep-rl-class/tree/main/unit9#unit-9-decision-transformers-and-offline-reinforcement-learning-) |  [Train your first Offline Decision Transformer model from scratch to make a half-cheetah run ](https://github.com/huggingface/blog/blob/main/notebooks/101_train-decision-transformers.ipynb)                                                                                                        |
 
 
 
